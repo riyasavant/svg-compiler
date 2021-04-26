@@ -12,7 +12,7 @@
 <p>Line, Rectangle, Circle and Ellipse<p>
 <br/>
 <h3>Getting Started</h3>
-<p>Clone this repository: git clone https://github.com/riyasavant/DBN-Compiler.git</p>  
+<p>Clone this repository: git clone https://github.com/riyasavant/svg-compiler.git</p>  
 <p>Install all dependencies: yarn</p>  
 <p>Run the application: yarn start</p>
 <br/>
