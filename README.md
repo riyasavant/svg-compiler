@@ -15,8 +15,3 @@
 <p>Clone this repository: git clone https://github.com/riyasavant/svg-compiler.git</p>  
 <p>Install all dependencies: yarn</p>  
 <p>Run the application: yarn start</p>
-<br/>
-<h6>Project Created by<h6>
-<a href="https://github.com/riyasavant">Riya Savant</a><br/>
-<a href="https://github.com/San411">Sandesh Bhat</a><br/>
-<a href="https://github.com/rahulnoronha">Rahul Noronha</a>
